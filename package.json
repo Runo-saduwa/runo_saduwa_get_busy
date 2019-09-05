@@ -1,0 +1,11 @@
+{
+  "name": "runo_saduwa_get_busy",
+  "version": "1.0.0",
+  "description": "Nodejs boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Runo Saduwa",
+  "license": "ISC"
+}
